@@ -9,6 +9,10 @@ public class Util {
   /**
    * Pads the given string with a char (multiple times, if needed) until the resulting string reaches
    * the given length. The padding is applied to the left.
+   *
+   * Example:
+   * ("abc", 5, '0') => "00abc"
+   *
    */
   public static String leftPad(String str, int length, char paddingChar) {
     return String.format("%"+ length +"s" ,str).replace(' ' ,paddingChar);
