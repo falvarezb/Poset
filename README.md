@@ -3,7 +3,7 @@
 [Partially ordered sets](https://en.wikipedia.org/wiki/Partially_ordered_set) and [Directed graphs](https://en.wikipedia.org/wiki/Directed_graph)
 are two sides of the same coin.
 
-This repo shows how to implement a Poset in Java.
+This repo shows how to implement a Poset in Java. See http://blog.bytecode.tech/how-to-implement-a-poset-in-java/ for a detailed explanation.
 
 ## Tech stack
 
